@@ -1,2 +1,2 @@
-# intellectual_property-
+# intellectual_property
 INTELLECTUAL PROPERTY SYSTEM/WEBSITE
