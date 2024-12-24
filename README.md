@@ -1,5 +1,4 @@
-# intellectual_property_system
-INTELLECTUAL PROPERTY SYSTEM/WEBSITE
+# intellectual_property_system:
 Intellectual property (IP) refers to creations of the mind that have commercial value and are protected by law. It encompasses a wide range of intangible assets, including inventions, literary and artistic works, symbols, names, images, and designs used in commerce. The primary purpose of IP law is to encourage innovation and creativity by granting creators and inventors exclusive rights to their creations for a specified period, thus allowing them to benefit financially from their work.
 
 Here are the main categories of intellectual property:
